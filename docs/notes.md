@@ -45,3 +45,4 @@ Notes and usage details for VectorRAG.Net.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- fix a small wording issue
