@@ -50,3 +50,4 @@ VectorRAG.Net is a .NET-native high-performance vector database library for sema
 // match the style used in the rest of the module
 // guard against empty input
 // keep defaults in sync with the manifest
+// avoid re-reading the config on every call
